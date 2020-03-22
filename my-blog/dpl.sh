@@ -21,6 +21,6 @@ git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 
-git push -f https://gitee.com/taotao521/blog.git master:gh-pages
+git push -f https://github.com/18522640223/blog.git master:gh-pages
 
 cd -
